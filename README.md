@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 - 🌱 I’m currently deepening my knowledge in **NLP, InfoSec and OSINT**
-- 💬 Ask me about **Python, Data Visualization, Machine Learning and Clinical Data Analysis**
+- 💬 Ask me about **Python, Data Visualization, Machine Learning and Data Analysis**
 - 📫 How to reach me: [LinkedIn](https://il.linkedin.com/in/elititiyevsky) | [Kaggle](https://www.kaggle.com/theeliyahu)
 - ⚡ Fun fact: **I am a medic and you can ask me everything about military history**
 
